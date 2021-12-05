@@ -5,7 +5,7 @@ cls
 :mainMenu
 echo What do you want to launch/do?
 echo.
-echo 1: Launch LCL menu
+echo 1: Launch Lunar (tweaks enabled)
 echo 2: Launch Solar Tweaks
 echo 3: Launch normal Lunar
 SET /P M=Type number then press ENTER:
