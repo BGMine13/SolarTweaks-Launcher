@@ -32,18 +32,23 @@ IF %M%==5 GOTO LCL1.17
 
 :LCL1.7
 LCL.exe 1.7
+goto end
 
 :LCL1.8
 LCL.exe 1.8
+goto end
 
 :LCL1.12
 LCL.exe 1.12
+goto end
 
 :LCL1.16
 LCL.exe 1.16
+goto end
 
 :LCL1.17
 LCL.exe 1.17
+goto end
 
 
 :ST
@@ -54,11 +59,18 @@ IF EXIST "%userprofile%\AppData\Local\Programs\Solar Tweaks\Solar Tweaks.exe" (
 )
 
 :STAppdata
-start "%userprofile%\AppData\Local\Programs\Solar Tweaks\Solar Tweaks.exe"
+"%userprofile%\AppData\Local\Programs\Solar Tweaks\Solar Tweaks.exe"
+goto end
 
 :STProgramFiles
-start "C:\Program Files\Solar Tweaks\Solar Tweaks.exe"
-
+"C:\Program Files\Solar Tweaks\Solar Tweaks.exe"
+goto end
 
 :CLASSICLUNAR
-start "%userprofile%\AppData\Local\Programs\lunarclient\Lunar Client.exe"
+"%userprofile%\AppData\Local\Programs\lunarclient\Lunar Client.exe"
+goto end
+
+:end
+exit
+exit
+exit
