@@ -1,0 +1,19 @@
+﻿Inicio
+Ajustes
+Sobre
+Java
+Directorio
+Opciones de inicio
+Cosméticos
+Ejecutable de Java
+Especifique su propio ejecutable de Java para usar con Lunar Client.
+Argumentos Java Virtual Machine (JVM)
+Lunar Client Lite creado por
+Aetopia
+Repositorio de GitHub
+Restablecer Lunar Client Lite.
+Restablecer
+Abrir carpeta de registros
+Abrir
+Lenguaje
+Traducido Por Fumiko!?#6685, La wea Cosmica#3727. Mejoras por Latitud#4449
